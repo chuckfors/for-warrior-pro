@@ -5,3 +5,5 @@
 3.0 Added instructions with photos, Added feedback email address, Changed icon
 
 3.2 Added Dot on bar of Inputs to show that it's monitoring
+
+3.5 Added Disclaimer, advanced settings, new boxes open within the main window, instead of a dot in bar of inputs to show that it's monitoring, it now displays the monitored text. 

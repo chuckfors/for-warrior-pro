@@ -8,4 +8,4 @@
 
 3.5 Added Disclaimer, advanced settings, new boxes open within the main window, instead of a dot in bar of inputs to show that it's monitoring, it now displays the monitored text. 
 
-on the way 3.6 Updated disclaimer, changes to advanced settings, fixed scroll wheel issue 
+3.6 Updated disclaimer, changes to advanced settings, fixed scroll wheel issue 

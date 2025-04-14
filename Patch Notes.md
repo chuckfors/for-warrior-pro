@@ -11,3 +11,5 @@
 3.6 Updated disclaimer, changes to advanced settings, fixed scroll wheel issue 
 
 3.8 Added Troubleshooting and tips, Changed some filters on ocr
+
+v1 changes to test with other platforms
